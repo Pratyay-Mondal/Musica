@@ -1,7 +1,8 @@
 # Musica
-A web application which is a music player
+A web application which is a custom music player
 
 ## About:
-• Desined and developed a web music player which includes 10 songs
-• Created a button to play/pause and previous, next buttons to play other songs
-• Tech used: HTML, CSS, JavaScrip
+- A web music player which includes 10 songs.
+- Created a button to play or pause operations.
+- Created previous and next buttons to play previous and next songs respectively.
+- Tech used: HTML, CSS, JavaScript
